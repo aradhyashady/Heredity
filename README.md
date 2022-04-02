@@ -3,6 +3,7 @@
 # An AI to assess the likelihood that a person will have a particular genetic trait.
 
 # Experimentation Process
+Attempted to model all of these relationships by forming a Bayesian Network of all the relevant variables.
 
 $ python heredity.py data/family0.csv
 Harry:
